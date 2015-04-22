@@ -1,0 +1,5 @@
+{
+    "project.name": "infrastructure",
+    "phabricator.uri": "http://ec2-52-74-111-137.ap-southeast-1.compute.amazonaws.com",
+    "base": "git:merge-base(origin/master), arc:upstream, arc:prompt"
+}
